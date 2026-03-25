@@ -6,7 +6,7 @@
 
 ## Your Input File
 ```
-../data/city-test-files/test_[your-city].csv
+../data/city-test-files/test_hyderabad.csv
 ```
 15 rows per city. `category` and `priority_flag` columns are stripped — you must classify them.
 
